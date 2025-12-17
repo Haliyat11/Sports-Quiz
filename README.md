@@ -2,7 +2,9 @@
  * Sports Quiz Java Project
 
  # Overview
-* This is a simple console-based Sports Quiz program written in Java. The program asks users multiple-choice questions about sports and keeps track of the score. * Users can request hints, and the program handles both uppercase and lowercase inputs.
+* This is a simple console-based Sports Quiz program written in Java.
+* The program asks users multiple choice questions about sports and keeps track of the score.
+*  Users can request hints, and the program handles both uppercase and lowercase inputs.
 
 # Features
 * Multiple-choice questions (A, B, C)
