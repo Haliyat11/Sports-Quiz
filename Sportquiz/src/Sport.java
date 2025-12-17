@@ -1,14 +1,8 @@
 import java.util.Scanner;
-/**
- *  
- */
 public class Sport
 {
     public static void main(String[]args){
 
-        
-
-        /*Declare a scanner */
         Scanner scan = new Scanner(System.in);
 
         /* declare score, correct answer, incorrect answers*/
@@ -238,4 +232,5 @@ public class Sport
         
     
         
+
     
